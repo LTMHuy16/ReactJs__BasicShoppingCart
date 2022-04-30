@@ -1,11 +1,11 @@
-  # BASIC SHOPPING CART
+# BASIC SHOPPING CART
 
-  # DESCRIPTIONS
+# DESCRIPTIONS
 
-  > Basic shopping cart with React
+> Basic shopping cart with React
 
-  # PREVIEW
+# PREVIEW
 
-  ![1](https://github.com/LTMHuy16/previewImg/home.png)
+![1](https://github.com/LTMHuy16/ReactJs__BasicShoppingCart/blob/master/previewImg/home.png)
 
-  ![2](https://github.com/LTMHuy16/previewImg/cart.png)
+![2](https://github.com/LTMHuy16/ReactJs__BasicShoppingCart/blob/master/previewImg/cart.png)
