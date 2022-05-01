@@ -2,7 +2,7 @@
 
 # DESCRIPTIONS
 
-> Basic shopping cart with React
+> Basic shopping cart with React, Redux-Toolkit
 
 # PREVIEW
 
