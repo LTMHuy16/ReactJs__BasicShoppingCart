@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "name": "Adam Marcus",
+      "email": "adam123@gmail.com",
+      "contact": "83673677367635",
+      "id": 1
+    },
+    {
+      "name": "James Huy",
+      "email": "jamesbond@gmail.com",
+      "contact": "65365365",
+      "id": 5
+    }
+  ]
+}
